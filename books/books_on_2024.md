@@ -3,6 +3,7 @@
 |The infinite and the Divine|Sci-Fi/Novel|Finished|
 |La Nueva Revolucion Humana 25|Religion|Finished|
 |La Nueva Revolucion Humana 2|Religion|Finished|
+|La Nueva Revolucion Humana 14|Religion|Started|
 |So i'm a spider so what? vol 15|Fantasy Light Novel| Finished|
 |So i'm a spider so what? vol 16|Fantasy/Light Novel/isekai| Finished|
 |Overlord vol 15|Fantasy/Light Novel/isekai| Finished|
