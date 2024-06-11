@@ -8,7 +8,7 @@
   - It felt good to do it, looking forward to push myself
   - Need to work on increasing the number
 
-## Date: 6/4/2024
+## Date: 6/5/2024
 ### **Activity:** abs
 - **Amount:** 20
 - **Location:** House
@@ -17,7 +17,7 @@
   - Due to feeling uncertain about the weather i decided to make abs at home
   - I feel like i can push myself furtehr but wish to focus on being consisten
  
-## Date: 7/4/2024
+## Date: 6/7/2024
 ### **Activity:** jog
 - **Amount:** 30 minutes
 - **Location:** Las ballenitas
@@ -25,3 +25,13 @@
   **Feedback:**
   - As i was on the final lap of my jog session, it rained
   - I need tp hydrate myself better
+    
+## Date: 6/11/2024
+### **Activity:** Stair climb
+- **Amount:** 20 minutes
+- **Location:** Home
+
+  **Feedback:**
+  - Decided to take advantage of the fact that the elevator isn't working to count it as my workout
+  - I need to imrpove my stamina a lil more
+    
