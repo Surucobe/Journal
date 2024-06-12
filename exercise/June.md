@@ -35,3 +35,12 @@
   - Decided to take advantage of the fact that the elevator isn't working to count it as my workout
   - I need to imrpove my stamina a lil more
     
+
+## Date: 6/12/2024
+### **Activity:** Stair climb
+- **Amount:** 20 minutes
+- **Location:** Home
+
+  **Feedback:**
+  - Decided to take advantage of the fact that the elevator isn't working to count it as my workout
+  - I need to improve my stamina a lil more
