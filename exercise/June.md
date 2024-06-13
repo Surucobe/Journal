@@ -36,7 +36,7 @@
   - I need to imrpove my stamina a lil more
     
 
-## Date: 6/12/2024
+## Date: 6/11/2024
 ### **Activity:** Stair climb
 - **Amount:** 20 minutes
 - **Location:** Home
@@ -44,3 +44,12 @@
   **Feedback:**
   - Decided to take advantage of the fact that the elevator isn't working to count it as my workout
   - I need to improve my stamina a lil more
+
+## Date: 6/12/2024
+### **Activity:** Stair climb Jogging
+- **Amount:** 10 minutes
+- **Location:** Home
+
+  **Feedback:**
+  - I took the wrong shoes and decided to go back instead of simply jogging i climb up the stair jogging, it was more intense than expected
+  - I need to work on my knees
