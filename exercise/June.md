@@ -53,3 +53,11 @@
   **Feedback:**
   - I took the wrong shoes and decided to go back instead of simply jogging i climb up the stair jogging, it was more intense than expected
   - I need to work on my knees
+
+## Date: 6/14/2024
+### **Activity:** Jogging
+- **Amount:** 45 minutes
+- **Location:** Home
+
+  **Feedback:**
+  - I need to do these feedbacks earlier
