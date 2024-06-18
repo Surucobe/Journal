@@ -61,3 +61,12 @@
 
   **Feedback:**
   - I need to do these feedbacks earlier
+
+## Date: 6/17/2024
+### **Activity:** Abs
+- **Amount:** 1 series of 40
+- **Location:** Home
+
+  **Feedback:**
+  - I have found myself lazy to go outside and jog and the situation with my clothes does not help either
+  - I decided to do abs till i feel a burning feeling on my belly it was interesting
