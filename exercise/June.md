@@ -70,3 +70,11 @@
   **Feedback:**
   - I have found myself lazy to go outside and jog and the situation with my clothes does not help either
   - I decided to do abs till i feel a burning feeling on my belly it was interesting
+
+## Date: 6/18/2024
+### **Activity:** Abs
+- **Amount:** 1 series of 40
+- **Location:** Home
+
+  **Feedback:**
+  - I keep on doing abs at home till my belly feels like it's burning although i finish shirtly after that
