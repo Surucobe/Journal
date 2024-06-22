@@ -78,3 +78,13 @@
 
   **Feedback:**
   - I keep on doing abs at home till my belly feels like it's burning although i finish shirtly after that
+
+
+## Date: 6/18/2024
+### **Activity:** Abs
+- **Amount:** 1 series of 40
+- **Location:** Home
+
+  **Feedback:**
+  - I feel determined to manage a big amount of abs per day
+  - I feel like i need to do something harder, weight related more specifically
