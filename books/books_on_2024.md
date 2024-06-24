@@ -10,9 +10,9 @@
 |Overlord vol 16|Fantasy/Light Novel/isekai| Finished|
 |Atomic Habits|Self Help|Finished|
 |The Masque of Vyle - Andy Chambers|Sci Fi/Novel/|Finished|
-|Aeldari inheritance of embers|Game Manual/Lore/ Sci Fi|Reading|
+|Aeldari inheritance of embers|Game Manual/Lore/ Sci Fi|Finished|
 |Blade & Bastard Warm ash, Dusky dungeon Volume 1|Novel/Fantasy|Finished|
 
 |Finished|Reading|Stopped|Total|
 |--|--|--|--|
-|11|1|1|13|
+|12|1|1|13|
