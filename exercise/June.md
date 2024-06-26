@@ -88,3 +88,13 @@
   **Feedback:**
   - I feel determined to manage a big amount of abs per day
   - I feel like i need to do something harder, weight related more specifically
+
+## Date: 6/25/2024
+### **Activity:** None
+- **Amount:** 0
+- **Location:** -
+
+  **Feedback:**
+  - I failed to workout today
+  - I did manage to realize the reason is me not setting an specific time to do so and instead letting myself go as i come
+  - i shall put a time of the day in order to do this
