@@ -98,3 +98,13 @@
   - I failed to workout today
   - I did manage to realize the reason is me not setting an specific time to do so and instead letting myself go as i come
   - i shall put a time of the day in order to do this
+
+
+## Date: 6/26/2024
+### **Activity:** Abs
+- **Amount:** 40
+- **Location:** Home
+
+  **Feedback:**
+  - I did a single series of 40 abs
+  - i have decided to do this rep every day of the week at 3 PM
