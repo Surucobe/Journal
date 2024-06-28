@@ -108,3 +108,12 @@
   **Feedback:**
   - I did a single series of 40 abs
   - i have decided to do this rep every day of the week at 3 PM
+ 
+ ## Date: 6/27/2024
+### **Activity:** Abs
+- **Amount:** 40
+- **Location:** Home
+
+  **Feedback:**
+  - I did a single series of 40 abs
+  - First day after my decission and i am more aware of the fact that i'm working out
