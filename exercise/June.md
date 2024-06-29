@@ -117,3 +117,12 @@
   **Feedback:**
   - I did a single series of 40 abs
   - First day after my decission and i am more aware of the fact that i'm working out
+
+
+## Date: 6/28/2024
+### **Activity:** Abs
+- **Amount:** 40
+- **Location:** Home
+
+  **Feedback:**
+  - Setting up an hour worked wonders
