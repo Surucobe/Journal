@@ -13,3 +13,13 @@
   - Due to a malcfunction in the elevator i had to go up the stair while carrying some very heavy bags which i took as my exercise
   - My resistance and stamina seems to havegone down, must work on it
   - I Felt very tired after it
+
+---
+## Date: 3/7/2024
+### **Activity:** abs
+- **Amount:** 40
+- **Location:** House
+
+  **Feedback:**
+  - Single repetition of 40 abs
+  - belly still feels like bruning while doing so
