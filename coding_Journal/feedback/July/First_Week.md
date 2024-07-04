@@ -22,3 +22,13 @@
 - Due to circunstances that scaped my control i couldn't properly sit to code and by the time i manage to do so i was too tired
 - currently looking for  aplace to get and/or customize icons for the project
 - I feel more confident on what i have to do and i'm closer to finish this project, i should be getting this done by friday if note sooner
+---
+## Date: 3/7/2024
+
+### Javascript
+**Activity:** improvement and implementation
+- **Duration:** 2 hours
+
+**Feedback:**
+- Improve the performance of the website and the code by making more dinamyc the way the methods find the elements to alter their style
+- Implemented my first recursivity method to search for an element
