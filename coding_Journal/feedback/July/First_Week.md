@@ -32,3 +32,15 @@
 **Feedback:**
 - Improve the performance of the website and the code by making more dinamyc the way the methods find the elements to alter their style
 - Implemented my first recursivity method to search for an element
+---
+## Date: 4/7/2024 - 5/7/2024
+
+### Javascript
+**Activity:** improvement and implementation
+- **Duration:** 3 hours
+
+**Feedback:**
+- Finished the recursivity method, my first attemp was rather raw and needed improvement, due to my lack of knowledge about it a bug was created
+- Thanks to chat GPT i could see how to properly create a recursive function which allowed me to create a better method for the search of elements inside my project
+- elements missing to be done: change of title and their proper change inside the collection array, implementation of the usage of localstorage
+
