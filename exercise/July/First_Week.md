@@ -23,3 +23,14 @@
   **Feedback:**
   - Single repetition of 40 abs
   - belly still feels like bruning while doing so
+ 
+ ---
+## Date: 4/7/2024 - 5/7/2024
+### **Activity:** abs
+- **Amount:** 40
+- **Location:** House
+
+  **Feedback:**
+  - Single repetition of 40 abs on the day 4th, failed to workout on the 5th
+  - I was careless with the time i ended up not doing my workout routine for the 5th this emans i haven't been able to make a proper cue
+  - Next week goal will be to walk every day
