@@ -21,3 +21,16 @@
 
 ### **Thoughts:** 
 the importance of making a proper structure in the early stages of the project is coming to shine now
+---
+## Date: July 10th
+
+### Javascript
+**Activity:** Project
+- **Duration:** 1:00 hour
+
+**Feedback:**
+- Bug fixing, fixed a last bug before moving forward woththe rest of the priject, the project is nearly done
+- iwish to make a final push tomorrow in order to finish the project
+
+### **Thoughts:** 
+Due to my poor sleep shcedule i have been slacking on my coding routine, a good night of sleep should help to finish the project 
