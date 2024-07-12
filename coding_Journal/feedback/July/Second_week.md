@@ -34,3 +34,17 @@ the importance of making a proper structure in the early stages of the project i
 
 ### **Thoughts:** 
 Due to my poor sleep shcedule i have been slacking on my coding routine, a good night of sleep should help to finish the project 
+
+---
+## Date: July 10th
+
+### Javascript
+**Activity:** Project
+- **Duration:** 3:00 hour
+
+**Feedback:**
+- Bug fixing, performance enhancing, new methods, new components
+- Tried to make a final push for the project and faced MANY different problems, couldn't finish the project
+
+### **Thoughts:** 
+I worked most of the day on my project facing many issues and different problem using different approaches for each of them, the project still remains unfinished and needs to improve a lot of things but it should be finished for next week
