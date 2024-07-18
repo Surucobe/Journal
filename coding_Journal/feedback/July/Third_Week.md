@@ -19,3 +19,14 @@
 **Feedback:**
 - Website currently working but remains and mostly finished, only missing the usage of local storage
 - Finally finishing this project has me fairly excited and wondering about what's next
+---
+## Date: July 17th
+
+### Javascript
+**Activity:** Officially finished my to-do project
+- **Duration:** 1:00 hour
+
+**Feedback:**
+- Website currently working and fully functional a new feature is yet to be added
+- This new feature is something that needs to be added but i forgot at first and kept posponing it's implementation is now difficult to implement
+- what i have learned of this project is the HUGE importance of a good planification at the begining of any project
