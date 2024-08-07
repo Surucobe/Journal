@@ -11,3 +11,13 @@
 - I read some articles about javascript or rather ecmascript
 - I wish to start working on my portfolio
 ---
+## Date: 6th, 2024
+
+### Javascript
+**Activity:** Null
+- **Duration:** Null
+
+**Feedback:**
+- Didn't code today
+- Stablecing a time to do this and the amount i wish to acclompish is key
+---
