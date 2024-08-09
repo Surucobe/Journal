@@ -19,5 +19,16 @@
 
 **Feedback:**
 - Didn't code today
-- Stablecing a time to do this and the amount i wish to acclompish is key
+- Setting up a time to do this and the amount i wish to acclompish is key
+---
+## Date: 8th, 2024
+
+### Javascript
+**Activity:** worked on portfolio
+- **Duration:** 40 minutes
+
+**Feedback:**
+- Started the portfolio, so far there is no design ready
+- I have decided to start my portolio and not care too much for the design even if it can be seen as a bad idea i wish to start working on it now
+- Is now or never!
 ---
