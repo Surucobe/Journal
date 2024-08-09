@@ -9,3 +9,8 @@ I currently feel awkward with the situation
 ## Date 07/08/2024
 I manage to study today, read about promises and callbacks i yet have to code tho, this is becoming a problem but all i need to do is set mysefl rules
 i need to set up an hour to start and a fix amount to do daily and slowly imrpove both my skills and that time
+---
+## Date 08/08/2024
+Didn't study today, however i did manage to code more than yesterday, as little as that may have been i still manage to code
+I have finally started building my portfolio the design is unclear as for now the only objective is to convey the information
+For tomorrow i wish to actually study and in order to do so i will prevent myself from distracting with video games, i will not play until i'm done with my studies
