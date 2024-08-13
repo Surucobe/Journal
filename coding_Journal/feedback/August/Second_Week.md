@@ -32,3 +32,13 @@
 - I have decided to start my portolio and not care too much for the design even if it can be seen as a bad idea i wish to start working on it now
 - Is now or never!
 ---
+## Date: 12th, 2024
+
+### Javascript
+**Activity:** worked on portfolio
+- **Duration:** 40 minutes
+
+**Feedback:**
+- Did minor changes but started working on the structure of the project tomorrow i will arrange the deploy
+- I realize i want that if i want to include the curriculum from freeCodeCamp i should get some activity on it so tomorrow i will check on that
+  
