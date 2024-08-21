@@ -19,3 +19,8 @@ For tomorrow i wish to actually study and in order to do so i will prevent mysel
 ### Bulding discipline
 I have become lazy towards my goals, not giving them their proper time and not giving me the respectful time i need to work on them, instead playing game
 I need to be better than this, i cannot allow this to keep going on
+---
+## Date 20/08/2024
+### Bulding discipline
+first day of building discipline: i determine myself to not play a specific game today, which i didn't and not just that but i essencially did not play any game at all today
+is an unusual day for this is not something i usually do, instead i spent most of the day studying, i code little yes but that's because i spent most of the day studying about coding
