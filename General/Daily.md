@@ -30,3 +30,8 @@ is an unusual day for this is not something i usually do, instead i spent most o
 Currently displeased with my own performance, i literally took away games from me and yet still i manage to fail to accomplish all of my task
 i remember readin that adding a sort of punishment or inmmediate consequence to failing this actions can be a huge help, the problem is that idk what i could make in order to help me with those
 Fair is to say that today i wished to play inscyption, which i did and enjoy doing so even tho i either forgot how to play or game got harder, could be any really
+---
+## Date 27/08/2024
+### Bulding discipline
+Decided to change the strategy, after experimenting with a new way to work my routine i realized that it wasn't working
+I have decided to use my previous approach instead, today it has been a general success aside from still getting use to it, again, it showed results today
