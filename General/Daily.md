@@ -35,3 +35,8 @@ Fair is to say that today i wished to play inscyption, which i did and enjoy doi
 ### Bulding discipline
 Decided to change the strategy, after experimenting with a new way to work my routine i realized that it wasn't working
 I have decided to use my previous approach instead, today it has been a general success aside from still getting use to it, again, it showed results today
+---
+## Date 28/08/2024
+### Bulding discipline
+Second day with my previous routine building and is giving better results, i feel more commited to acoomplishing whaat i decide to do on my day to day
+I have consider adjusting a few of the things i do and trying to be more specific with what i wanna do, also setting times would be ideal
