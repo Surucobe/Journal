@@ -40,3 +40,9 @@ I have decided to use my previous approach instead, today it has been a general 
 ### Bulding discipline
 Second day with my previous routine building and is giving better results, i feel more commited to acoomplishing whaat i decide to do on my day to day
 I have consider adjusting a few of the things i do and trying to be more specific with what i wanna do, also setting times would be ideal
+---
+## Date 29/08/2024
+### Bulding discipline
+Third day and i have manage to improve, imagae to code for an hour under a pomodoro strategy, today i have manage to do nearly everything i had in my list
+Missing few things to finish my list does tel me i need to tweak a few things still but i'm on the right path
+However i'm still missing some key elements to feel satisfied with my day to day, name actually sending my CV to companies and finish my protfolio
