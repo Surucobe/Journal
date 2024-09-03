@@ -46,3 +46,10 @@ I have consider adjusting a few of the things i do and trying to be more specifi
 Third day and i have manage to improve, imagae to code for an hour under a pomodoro strategy, today i have manage to do nearly everything i had in my list
 Missing few things to finish my list does tel me i need to tweak a few things still but i'm on the right path
 However i'm still missing some key elements to feel satisfied with my day to day, name actually sending my CV to companies and finish my protfolio
+---
+## Date 02/09/2024
+### Starting is easy keeping up is hard
+Today i didn't manage to do everything this was due to my own negligence, i decided to do something else, more specifically play games
+I don't blame the game because i have seen and experience that  even removing them accomplish nothing very sadly, i'm facing a new challenge in my coding journey
+Rather i'm facing many this time around i need to set goals on my day to day aside from what is a routine for me
+In order to progress i need to set what i also need to start working on
