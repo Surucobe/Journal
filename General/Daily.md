@@ -53,3 +53,10 @@ Today i didn't manage to do everything this was due to my own negligence, i deci
 I don't blame the game because i have seen and experience that  even removing them accomplish nothing very sadly, i'm facing a new challenge in my coding journey
 Rather i'm facing many this time around i need to set goals on my day to day aside from what is a routine for me
 In order to progress i need to set what i also need to start working on
+---
+## Date 03/09/2024
+### Starting is easy keeping up is hard
+Not everything was accomplish, specifically the portfolio part, i technically still have time and could manage to do sobut i would still feel like i failed
+i wish to fix my behavior but this ain't magic nor is an easy process but i'm running against the clock in order to achieve this
+I have manage to grasp ideas and motions about how i should be doing things, i have manage to work better although i'm still lacking 
+I need a cue, something that sets my mind into the idea that i'm gonna start coding and won't stop for a long while
