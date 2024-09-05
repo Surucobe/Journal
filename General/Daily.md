@@ -60,3 +60,9 @@ Not everything was accomplish, specifically the portfolio part, i technically st
 i wish to fix my behavior but this ain't magic nor is an easy process but i'm running against the clock in order to achieve this
 I have manage to grasp ideas and motions about how i should be doing things, i have manage to work better although i'm still lacking 
 I need a cue, something that sets my mind into the idea that i'm gonna start coding and won't stop for a long while
+---
+## Date 03/09/2024
+### Starting is easy keeping up is hard
+I don't feel exactly please with today's performance but i don't feel totally displeased either i am overall satisfied
+I worked on my mergesort challenge today and manage to do decent progress by breaking down the problems into simple steps, i manage to focus for 25 minutes streight, if not 30, into purely coding
+i have finished most of the task in my list except for 1 or two i'm missing, i am yet to work in my porfolio however
