@@ -61,15 +61,21 @@ i wish to fix my behavior but this ain't magic nor is an easy process but i'm ru
 I have manage to grasp ideas and motions about how i should be doing things, i have manage to work better although i'm still lacking 
 I need a cue, something that sets my mind into the idea that i'm gonna start coding and won't stop for a long while
 ---
-## Date 03/09/2024
+## Date 04/09/2024
 ### Starting is easy keeping up is hard
 I don't feel exactly please with today's performance but i don't feel totally displeased either i am overall satisfied
 I worked on my mergesort challenge today and manage to do decent progress by breaking down the problems into simple steps, i manage to focus for 25 minutes streight, if not 30, into purely coding
 i have finished most of the task in my list except for 1 or two i'm missing, i am yet to work in my porfolio however
 ---
-## Date 03/09/2024
+## Date 05/09/2024
 ### Recursivity and mergesort be damn
 It's been hard to work this around, i've been oing my best to find a way to work thris through on my own but i may have to give up on that idea
 It's been too difficult and i'm unsure how to solve some parts fo this, i'm sure if i continue i will find the answer
 But the more time i spend on this part the more furstrated i feel, despite learning how to deal with this there is a reality i must pay attention to
 I need money and a job
+---
+## Date 06/09/2024
+### Recursivity and mergesort solved!
+shortly after yesterdays update i manage to solve the problem effectively making my code functional, i am yet to know if i can make it better
+As i type that the question of "why?" comes to my mind, is not a matter of "it can always be improved" but rather "acknowledge you did well"
+I must celebrate and learn to treasure my victories
