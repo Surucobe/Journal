@@ -79,3 +79,10 @@ I need money and a job
 shortly after yesterdays update i manage to solve the problem effectively making my code functional, i am yet to know if i can make it better
 As i type that the question of "why?" comes to my mind, is not a matter of "it can always be improved" but rather "acknowledge you did well"
 I must celebrate and learn to treasure my victories
+---
+## Date 06/09/2024
+### LinkedList be damned
+Been an interesting day, i decided to improve the way i do things by changing my approach to my leisure time
+Instead of simply deciding to not play anything for a set amount of days i have decided to use it to incentive myself
+Until my classes are done i won't allow myself to play, this should help me keep myself motivated and see real consequences and rewards
+As to how am i gonna work this, i am yet to see
