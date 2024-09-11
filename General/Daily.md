@@ -86,3 +86,9 @@ Been an interesting day, i decided to improve the way i do things by changing my
 Instead of simply deciding to not play anything for a set amount of days i have decided to use it to incentive myself
 Until my classes are done i won't allow myself to play, this should help me keep myself motivated and see real consequences and rewards
 As to how am i gonna work this, i am yet to see
+---
+## Date 06/09/2024
+### Producing result, needing refinement
+The idea of rewarding me and giving me consequences is working wonders so far, i have been studying more than before to the point that i can see myself finish part of the Odin curriculum soon
+I had an odd feeling while studying today, something like a fondness to what i was doing, while i was doing so
+Now that myprocess is working i just need to improve said process in order to finish all my task on time
