@@ -92,3 +92,10 @@ As to how am i gonna work this, i am yet to see
 The idea of rewarding me and giving me consequences is working wonders so far, i have been studying more than before to the point that i can see myself finish part of the Odin curriculum soon
 I had an odd feeling while studying today, something like a fondness to what i was doing, while i was doing so
 Now that myprocess is working i just need to improve said process in order to finish all my task on time
+---
+## Date 06/09/2024
+### Producing result, needing refinement
+Today i manage to do most of my things before the time of my feedback, still need to work on how i study
+I have been managing to keep my studies up and running, with a few minor problem perhaps but still manage
+As of late i have run into something that has left me deeply disturbed and haven't really been able to take it our of my head
+I decided to used something rather wholesome to do the job however, this has been giving me positive results so far, need to keep it up
