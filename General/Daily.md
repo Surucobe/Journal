@@ -87,15 +87,21 @@ Instead of simply deciding to not play anything for a set amount of days i have 
 Until my classes are done i won't allow myself to play, this should help me keep myself motivated and see real consequences and rewards
 As to how am i gonna work this, i am yet to see
 ---
-## Date 06/09/2024
+## Date 06/10/2024
 ### Producing result, needing refinement
 The idea of rewarding me and giving me consequences is working wonders so far, i have been studying more than before to the point that i can see myself finish part of the Odin curriculum soon
 I had an odd feeling while studying today, something like a fondness to what i was doing, while i was doing so
 Now that myprocess is working i just need to improve said process in order to finish all my task on time
 ---
-## Date 06/09/2024
+## Date 06/011/2024
 ### Producing result, needing refinement
 Today i manage to do most of my things before the time of my feedback, still need to work on how i study
 I have been managing to keep my studies up and running, with a few minor problem perhaps but still manage
 As of late i have run into something that has left me deeply disturbed and haven't really been able to take it our of my head
 I decided to used something rather wholesome to do the job however, this has been giving me positive results so far, need to keep it up
+---
+## Date 06/12/2024
+### Producing result, needing refinement
+Manage to code most of the day althought the next project is scary
+Today i came to the conclusion that i should stop feeling bad over not knowing how to do certain things for that is normal
+I let myself search and investigate how to do certain things today, which should have been normal, i need to keep pressing forward
