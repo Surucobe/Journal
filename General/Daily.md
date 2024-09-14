@@ -105,3 +105,8 @@ I decided to used something rather wholesome to do the job however, this has bee
 Manage to code most of the day althought the next project is scary
 Today i came to the conclusion that i should stop feeling bad over not knowing how to do certain things for that is normal
 I let myself search and investigate how to do certain things today, which should have been normal, i need to keep pressing forward
+---
+## Date 06/13/2024
+### Producing result, needing refinement
+Today i had an unexpected visit from a friend which lead to me not doing much and as oflate i feel like i'm not doing this properly
+I need to find a way to imrpove or this sytem into something that excites me to do
