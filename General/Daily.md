@@ -110,3 +110,9 @@ I let myself search and investigate how to do certain things today, which should
 ### Producing result, needing refinement
 Today i had an unexpected visit from a friend which lead to me not doing much and as oflate i feel like i'm not doing this properly
 I need to find a way to imrpove or this sytem into something that excites me to do
+---
+## Date 06/16/2024
+### Understanding consequences
+I have adapted to a new system which i am yet to amster, i have decided to set consequences to not finishing my task every day
+Due to these very consequences i didn't quite play today, although fair is to say i did play a little
+I manage to increase how much i code today, it seems like it has become rather difficult to me again but this is normal by now
