@@ -116,3 +116,9 @@ I need to find a way to imrpove or this sytem into something that excites me to 
 I have adapted to a new system which i am yet to amster, i have decided to set consequences to not finishing my task every day
 Due to these very consequences i didn't quite play today, although fair is to say i did play a little
 I manage to increase how much i code today, it seems like it has become rather difficult to me again but this is normal by now
+---
+## Date 06/16/2024
+### Feeling under the weather
+Is been a difficult day, been kicking myself today quite a bit
+I manage to make a fair progress over my responsive project, need to go over some of the lesson about flex and maybe let go the idea of pixel perfect
+Gonna work on the BST a little bit before going to slep, i have manage to adopt the idea of finish my work first and play later
