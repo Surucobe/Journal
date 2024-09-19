@@ -122,3 +122,9 @@ I manage to increase how much i code today, it seems like it has become rather d
 Is been a difficult day, been kicking myself today quite a bit
 I manage to make a fair progress over my responsive project, need to go over some of the lesson about flex and maybe let go the idea of pixel perfect
 Gonna work on the BST a little bit before going to slep, i have manage to adopt the idea of finish my work first and play later
+---
+## Date 06/16/2024
+### Taking things seriously
+I have manage to stablish a new routine on which i focus on my studies but i need to find a job as well
+I don't know if it's possible for me to get one as a web developer with my level of knowledge, i am sure to try
+But until i can get such a thing i need to find a different job something i can do and allows me to study
