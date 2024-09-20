@@ -128,3 +128,10 @@ Gonna work on the BST a little bit before going to slep, i have manage to adopt 
 I have manage to stablish a new routine on which i focus on my studies but i need to find a job as well
 I don't know if it's possible for me to get one as a web developer with my level of knowledge, i am sure to try
 But until i can get such a thing i need to find a different job something i can do and allows me to study
+---
+## Date 06/16/2024
+### Taking things seriously
+Spend most of the day coding and studying
+I have gotten the grasp of the BST, it's quite fun and entertaining actually, i wish to revisiti the linkedlist challenge
+With a deeper understanding about the way classes work i wish to make another attemped at things i failed at
+I am yet to finish the BST Code but with only three methods left i feel confident
