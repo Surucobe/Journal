@@ -135,3 +135,9 @@ Spend most of the day coding and studying
 I have gotten the grasp of the BST, it's quite fun and entertaining actually, i wish to revisiti the linkedlist challenge
 With a deeper understanding about the way classes work i wish to make another attemped at things i failed at
 I am yet to finish the BST Code but with only three methods left i feel confident
+---
+## Date 06/16/2024
+### Finishing early
+Today, for the very first time i have finish most of my assignment for the day on time remaining only one last thing that i'm about to do
+Been coding most of the day i have developed a nice mindset to tackle problems and look for solutions
+Tomorrow is gonna be a busy day so i might not be able to do everything that i want but i shall try my best!
