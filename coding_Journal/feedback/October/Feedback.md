@@ -15,3 +15,10 @@ I hate myself and for whatever reason i can find a reason to do anything, i fear
 I have been making slow and small progress towards the things i wish to achieved, although i'm happy to keep improving i feel myself frustrated for not working harder
 I know i shouldn't pressure myself so much however is difficult to simply feel myself satisfied when i don't finish things
 I need to put deadlines on myself thing i need to accomplish withing a set time
+---
+# Date October 9th
+## feels more like progress
+I have manage to do a bit more today although i'm not satisfy yet i feel at ease, there are certain thing i need to fix
+The way i work is one thing i must change and also the approach i have towards study and how i handle my life
+As of now i have no money, i got things i need to do and no clue how to do them, all i can rely on is the idea i will get a gig to help me get some cash
+I don't know what else to put in here today
