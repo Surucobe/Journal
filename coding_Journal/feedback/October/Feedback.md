@@ -22,3 +22,9 @@ I have manage to do a bit more today although i'm not satisfy yet i feel at ease
 The way i work is one thing i must change and also the approach i have towards study and how i handle my life
 As of now i have no money, i got things i need to do and no clue how to do them, all i can rely on is the idea i will get a gig to help me get some cash
 I don't know what else to put in here today
+---
+# Date Ovtober 10th
+## Doing maybe too much
+I have set my goal into three different areas, learning RPA, python and finish my learning of javascript
+Although rpa and python will go hand by hand reality is i may be taking too much and i may not be handling it well enough
+I need to stablish ways to work this in order for me to be able to study properly and also work on projects
