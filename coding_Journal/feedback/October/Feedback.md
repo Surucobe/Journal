@@ -23,8 +23,15 @@ The way i work is one thing i must change and also the approach i have towards s
 As of now i have no money, i got things i need to do and no clue how to do them, all i can rely on is the idea i will get a gig to help me get some cash
 I don't know what else to put in here today
 ---
-# Date Ovtober 10th
+# Date October 10th
 ## Doing maybe too much
 I have set my goal into three different areas, learning RPA, python and finish my learning of javascript
 Although rpa and python will go hand by hand reality is i may be taking too much and i may not be handling it well enough
 I need to stablish ways to work this in order for me to be able to study properly and also work on projects
+---
+# Date October 11th
+## Doing the enough
+i have manage to study and work a bit more on what i wished to worked on today, although my journey through RPA has been a difficult one i believe i have finally manage to find a starting point
+My studies of RPA were fairly stopped today due to the poor net connection of today, this happened in both internet lines...
+The lastest Odin Project lesson has been challenging, i do not know where to even start and i don't work on it in the way i feel like i should
+Maybe is time for me to get more strict with myself
