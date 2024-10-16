@@ -35,3 +35,9 @@ i have manage to study and work a bit more on what i wished to worked on today, 
 My studies of RPA were fairly stopped today due to the poor net connection of today, this happened in both internet lines...
 The lastest Odin Project lesson has been challenging, i do not know where to even start and i don't work on it in the way i feel like i should
 Maybe is time for me to get more strict with myself
+---
+# Dtae October 15th
+## You won't know till you try
+After spending some solid few days wondering what i should do with a project i was too afraid to even try i finished after giving it some thinking
+The solution was rather simple and i could keep going and finishing some more fancy way to work the project but i feel like i wish to continue
+I have to work on another 2 different project, named my portfolio and RPA with python, which i didn't do today but i am looking forward to do so
