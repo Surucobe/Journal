@@ -36,8 +36,14 @@ My studies of RPA were fairly stopped today due to the poor net connection of to
 The lastest Odin Project lesson has been challenging, i do not know where to even start and i don't work on it in the way i feel like i should
 Maybe is time for me to get more strict with myself
 ---
-# Dtae October 15th
+# Date October 15th
 ## You won't know till you try
 After spending some solid few days wondering what i should do with a project i was too afraid to even try i finished after giving it some thinking
 The solution was rather simple and i could keep going and finishing some more fancy way to work the project but i feel like i wish to continue
 I have to work on another 2 different project, named my portfolio and RPA with python, which i didn't do today but i am looking forward to do so
+---
+# Date October 17th
+## Neglecting my resposabilities
+These past two days i neglected what i had to do, barely doing some of the things but in that spirit i am failing at what i mean to achieve
+I need tog et myself serious about the things i wanna accomplish otherwise they will forever be dreams
+I struggle with the idea of setting immediate consequences if i truly wish to accomplish something i must focus and work hard
