@@ -47,3 +47,9 @@ I have to work on another 2 different project, named my portfolio and RPA with p
 These past two days i neglected what i had to do, barely doing some of the things but in that spirit i am failing at what i mean to achieve
 I need tog et myself serious about the things i wanna accomplish otherwise they will forever be dreams
 I struggle with the idea of setting immediate consequences if i truly wish to accomplish something i must focus and work hard
+---
+# Date october 18th
+## One good step
+I manage to give a better meaning to this day, i still need to work on some other stuff and i haven't finished yet but i feel like i did better today
+Considerating that we had a power outage i feel like i have manage to work well around it, i have a lot of things to do still but i feel in a good road
+This weekend i'm gonna aim to work on my projects
