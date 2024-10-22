@@ -53,3 +53,8 @@ I struggle with the idea of setting immediate consequences if i truly wish to ac
 I manage to give a better meaning to this day, i still need to work on some other stuff and i haven't finished yet but i feel like i did better today
 Considerating that we had a power outage i feel like i have manage to work well around it, i have a lot of things to do still but i feel in a good road
 This weekend i'm gonna aim to work on my projects
+---
+# Date October 21th
+## Steady progress
+I manage to do most of my activities today, missing very little to actually finish but at the same time i feel like i lack the focus in many of them
+I need to work in a more precise manner the way i do things but i like the progress i'm making
