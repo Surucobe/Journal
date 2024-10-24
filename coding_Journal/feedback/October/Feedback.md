@@ -58,3 +58,9 @@ This weekend i'm gonna aim to work on my projects
 ## Steady progress
 I manage to do most of my activities today, missing very little to actually finish but at the same time i feel like i lack the focus in many of them
 I need to work in a more precise manner the way i do things but i like the progress i'm making
+---
+# Date October 23th
+## Steady progress
+I have manage to work on most of my resposabilities  in the part relates to coding i'm missing to work on my portfolio
+I realize that despite having work on three different code related subjects i still wanna punish me over the one thing i left out
+Putting that aside i still have things to do yet i know i can make them for they don't demand a lot of time
